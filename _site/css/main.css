@@ -216,7 +216,7 @@ h2 ~ p {
   margin: 2em 0 1em;
 }
 .bio-copy {
-  font-size: 1em;
+  font-size: 1em; 
 }
 .bio-copy a {
   color: green;
